@@ -1,0 +1,7 @@
+This project was intended to practice inheritance using Java. 
+
+Author: Smit Rao
+
+
+
+April 2018
